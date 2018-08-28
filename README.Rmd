@@ -18,7 +18,12 @@ The Microbiome Quality Control project contortion set out to investigate the var
 
 Given the enormity of this dataset, we struggled to process it into a form that we could analyse in `R`. We created this repository to distribute the same data in a more convenient format for other `R` users.
 
-## References
+## TODO
+
+- vignette to show how to access data
+- file showing how we preprocessed 
+- documentation
+
 
 ## References
 
