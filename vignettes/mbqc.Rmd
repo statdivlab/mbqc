@@ -1,0 +1,30 @@
+---
+title: "Accessing MBQC data"
+author: "Amy Willis"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{getting-started}
+  %\VignetteEngine{rmarkdown::render}
+  %\VignetteEncoding{UTF-8}
+---
+
+We found it difficult to process data from the MBQC project into usable form, so created this package to increasing accessibility of this important data resource.
+
+We think the authors of the study for making this data publicly available.
+
+## Vignette Info
+
+This vignette will lead you through
+
+- Access MBQC data objects
+
+## Loading the package and data
+
+Download the latest version of the package from github.
+
+```{r}
+library(tibble)
+# library(mbqc)
+# data(m)
+```
